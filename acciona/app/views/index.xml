@@ -1,0 +1,18 @@
+<Alloy>
+	<Window class="container">
+		<TabGroup tabsAtBottom="true">
+			<Tab title="Acopio">
+				<Window>
+				<WebView url="/html/atlantica.htm">
+					
+				</WebView>
+				</Window>
+			</Tab>
+			<Tab title="Proceso">
+				<Window>
+					<Button id="btn1" title="button1" />
+				</Window>
+			</Tab>
+		</TabGroup>
+	</Window>
+</Alloy>

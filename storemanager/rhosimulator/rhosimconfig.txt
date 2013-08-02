@@ -1,0 +1,8 @@
+rhodes_path='/Users/user/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-3.5.1.12'
+app_version='1.0'
+app_name='storemanager'
+reload_app_changes=1
+debug_port=
+debug_host='127.0.0.1'
+platform='wm'
+ext_path=/Users/user/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-3.5.1.12/lib/extensions/json;

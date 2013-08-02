@@ -1,0 +1,24 @@
+#sdk: "/Users/user/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-3.5.1.12"
+sdkversion: 3.5.0
+name: storemanager
+version: 1.0
+vendor: rhomobile
+build: debug
+bbver: 4.6
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator5.0
+  provisionprofile: 
+  codesignidentity:
+  entitlements:
+  BundleIdentifier: com.rhomobile.storemanager
+  BundleURLScheme: storemanager
+wp:
+  productid: 'e5a07250-dcc3-0130-f8d6-0019e335ac7e'
+symbian:
+  uid: '0xeaa7c1de'
+android:
+  version: 2.1
+
+extensions: ["json", "another-extension"]
